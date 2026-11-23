@@ -1,1 +1,0 @@
-console.log("Hello, Essam Adel! Welcome to your personal website.");
